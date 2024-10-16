@@ -1,0 +1,21 @@
+body { font-family: Bai Jamjuree;
+    background-color: bisque;
+}
+
+footer {background-color: black;
+    color: white;
+    bottom:0;
+    position:fixed;
+    width:100%;
+} 
+footer p{    height:2rem;
+    margin-top: 0,5rem;
+    text-align: center;
+    font-size: 0.6rem;
+}
+#container {
+    display:flex ;
+}
+.cartao {
+    margin: 1rem 1rem;
+}
